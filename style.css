@@ -1,0 +1,57 @@
+*{margin: 0; padding: 0;}
+body {}
+body {background-image: url(gradient-islamic-pattern-background-vector.jpg); width:100%; height:100vh;}
+.btn {color: rgb(216, 168, 108); border: 1px solid rgb(216, 168, 108);}
+.btn:hover {background-color:rgb(216, 168, 108); color: white;}
+.form-control:hover {border:1px solid rgb(216, 168, 108);}
+.name {margin-right: 15px;}
+.name h3 {font-family: 'Courier New', Courier, monospace; color:goldenrod; font-weight: bold;}
+
+
+.row {background-color: rgba(99, 97, 95, 0.377);}
+.right-side {border: px solid black; width: 580px; height: 350px; margin-left: 15px;}
+.left-side {border: px solid rgb(219, 200, 125);  width: 520px; height: 300px; margin-top: 30px; margin-left:25px;}
+.left-side h1 {font-size: 2em; color:rgb(136, 49, 49); text-align: center;}
+.left-side p {text-align: justify;  text-align-last: right; padding: 5px; font-weight: bold}
+.container h1 {text-align: right; font-weight: bold;}
+.left-side {box-shadow: 0.5px 0.5px 5px;}
+
+.right-side2 {border: px solid black; width: 580px; height: 350px; margin-left: 15px;}
+.left-side2 {  width: 520px; height: 300px; margin-top: 30px; background-color white; margin-left:25px;}
+.left-side2 h1 {font-size: 2em; color:rgb(136, 49, 49); text-align: center;}
+.left-side2 p {text-align: justify;  text-align-last: right; padding: 5px; font-weight: bold}
+.container h1 {text-align: right; font-weight: bold;}
+.left-side2 {box-shadow: 0.5px 0.5px 5px;}
+
+
+.section3 .row {width: 90%; margin-left: 70px; display: flex; flex-direction: row; justify-content: space-between;}
+.card p {text-align: justify; text-align-last: right;}
+.card {box-shadow: 0.5px 0.5px 5px;}
+.card:hover {transform: scale(1.1);}
+
+.section0 {width: 100%; height: 150px; background-color: rgb(5, 5, 78); border: 12px solid whitesmoke}
+.section0 h2 {text-align: center; font-weight: bold; font-family:'Courier New', Courier, monospace; color: white; background-color: rgb(5, 5, 78) ; position: relative;bottom: 11px; margin-left: px; margin-right: px; }
+.section0 h3 {text-align: center; font-family:'Courier New', Courier, monospace; color: white;}
+.section0 p {text-align: center; font-family:'Courier New', Courier, monospace; color: white;}
+.title {background-color:rgba(99, 97, 95, 0.377);}
+
+.section4 .row {justify-content: space-around;}
+.right-side3 {display: flex; flex-direction: row; justify-content: space-around; align-items: center;}
+.right-side3 .fa-solid{font-size: 120px;}
+.right-side3 h2 {margin-right: 20px;}
+.left-side3 {text-align: right;  margin-left: 150px;}
+
+.right-side4 p {text-align: right;}
+
+.end-nav {width: 100%; height: 150px; background-color:rgb(5, 5, 78);}
+.end-nav {text-align: center; color: white;}
+.facebook {display: flex; flex-direction: row; justify-content: center; position: relative; left:50px; margin-left: -150px;}
+.ministry {display: flex; flex-direction: row; justify-content: center;position: relative; left:50px;}
+.fa-solid {font-size: 20px; }
+.fa-brands {font-size: 20px;}
+
+video {position: fixed; }
+.left-side9 {border: px solid black; width: 520px; height: 300px; margin-top: 20px; text-align: right; text-align: justify;  text-align-last: right; margin-right: 10px; margin-left: 10px; }
+.left-side9 button {background-color: rgb(87, 85, 85); border-radius: 2px; border: none; width: 65px; height: 30px; margin-right: 220px; margin-top: 20px; padding-right: 18px; padding-bottom: 6px;}
+.marad {display: flex; flex-direction: row; flex-wrap: wrap;}
+.card-title {text-align: center;}
