@@ -1,6 +1,6 @@
 *{margin: 0; padding: 0;}
 body {}
-body {background-image: url(gradient-islamic-pattern-background-vector.jpg); width:100%; height:100vh;}
+body {background-image: url(gradient-islamic-pattern-background-vector.jpg); width:95%; height:100vh;}
 .btn {color: rgb(216, 168, 108); border: 1px solid rgb(216, 168, 108);}
 .btn:hover {background-color:rgb(216, 168, 108); color: white;}
 .form-control:hover {border:1px solid rgb(216, 168, 108);}
